@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/padzikm/TestSharp/_apis/build/status/padzikm.TestAz?branchName=master)]
+[![Build Status](https://dev.azure.com/padzikm/TestSharp/_apis/build/status/padzikm.TestAz?branchName=master)](https://dev.azure.com/padzikm/TestSharp/_build/latest?definitionId=1&branchName=master)
 
 # SAFE Template
 
